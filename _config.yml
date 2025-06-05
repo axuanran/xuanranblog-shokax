@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ShokaX Can
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: xuanrans blog
+subtitle: '无非是个普通人罢了'
+description: '总喜欢岁月静好，但既为青春之人，想来仍需努力，创于未来'
+keywords: deep-learning,linux,...
+author: xuarnan
 language: zh-cn
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.oxiilo.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
